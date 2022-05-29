@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /index.php
+Disallow: /*?page=*
+Disallow: /reviews
+
+Sitemap: https://resident-center.kz/sitemap.xml
